@@ -27,6 +27,10 @@ Create a webpage layout by replicating the design provided. This exercise will h
 - **Step 3**: Apply CSS styles to match the design's fonts and colors.
 - **Step 4**: Adjust spacing, alignment, and sizing to closely match the design. Remember, the goal is not pixel-perfect replication but to achieve a visually similar result.
 
+## Result
+
+To see the result of this exercise, click [here](https://rchahoud.github.io/landing_page/)
+
 ## Reference
 
 For more information and resources, check out The Odin Project's lesson on creating a landing page [here](https://www.theodinproject.com/lessons/foundations-landingpage).
