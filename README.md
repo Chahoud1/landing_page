@@ -29,7 +29,7 @@ Create a webpage layout by replicating the design provided. This exercise will h
 
 ## Result
 
-To see the result of this exercise, click [here](https://rchahoud.github.io/landing_page/)
+To see the result of this exercise, click [here](https://rchahoud.github.io/landing-page/)
 
 ## Reference
 
